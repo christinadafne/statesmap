@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-11T13:32:16 IST" name="Default suite" finished-at="2023-02-11T13:33:45 IST" duration-ms="89390">
+    <groups>
+    </groups>
+    <test started-at="2023-02-11T13:32:16 IST" name="Default test" finished-at="2023-02-11T13:33:45 IST" duration-ms="89390">
+      <class name="petdisesealert_testcases.Pet_testcases">
+        <test-method is-config="true" signature="country()[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:32:16 IST" name="country" finished-at="2023-02-11T13:32:23 IST" duration-ms="7524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country -->
+        <test-method signature="states(java.lang.String)[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:32:23 IST" name="states" data-provider="states" finished-at="2023-02-11T13:32:26 IST" duration-ms="2319" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[california]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- states -->
+        <test-method is-config="true" signature="close()[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:32:26 IST" name="close" finished-at="2023-02-11T13:32:44 IST" duration-ms="18301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="country()[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:32:44 IST" name="country" finished-at="2023-02-11T13:32:49 IST" duration-ms="5073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country -->
+        <test-method signature="states(java.lang.String)[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:32:49 IST" name="states" data-provider="states" finished-at="2023-02-11T13:32:51 IST" duration-ms="2224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[florida]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- states -->
+        <test-method is-config="true" signature="close()[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:32:51 IST" name="close" finished-at="2023-02-11T13:33:09 IST" duration-ms="18278" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="country()[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:33:09 IST" name="country" finished-at="2023-02-11T13:33:15 IST" duration-ms="5451" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country -->
+        <test-method signature="states(java.lang.String)[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:33:15 IST" name="states" data-provider="states" finished-at="2023-02-11T13:33:17 IST" duration-ms="2293" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[new-york]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- states -->
+        <test-method is-config="true" signature="close()[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:33:17 IST" name="close" finished-at="2023-02-11T13:33:35 IST" duration-ms="18258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method is-config="true" signature="country()[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:33:35 IST" name="country" finished-at="2023-02-11T13:33:40 IST" duration-ms="4858" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- country -->
+        <test-method signature="states(java.lang.String)[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:33:40 IST" name="states" data-provider="states" finished-at="2023-02-11T13:33:43 IST" duration-ms="2627" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[maryland]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- states -->
+        <test-method is-config="true" signature="close()[pri:0, instance:petdisesealert_testcases.Pet_testcases@3c419631]" started-at="2023-02-11T13:33:43 IST" name="close" finished-at="2023-02-11T13:33:45 IST" duration-ms="2147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- petdisesealert_testcases.Pet_testcases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
